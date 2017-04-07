@@ -28,7 +28,6 @@
             ## Communication
             ### Localistation (l10n)
 
-            <br>
             Locasprint 5 à Mozilla Paris #l10nParis
             
             <small>8 et 9 avril 2017</small>
@@ -204,7 +203,8 @@
           
           Ajouter le nom des traducteur·rice·s et des relecteur·rice·s (+ liens).
           
-          Et donc, soit…            
+          Et donc, soit…
+            
 				</script> </section>
         <section data-markdown="">
           <script type="text/template">
@@ -230,10 +230,9 @@
           <script type="text/template">
           # Correcteur grammatical
           
-          ⚠️ Important<br>
-		  <small>[Grammalecte](https://addons.mozilla.org/fr/firefox/addon/grammalecte-fr/ "Grammalecte fr – Module pour Firefox de dicolecte")</small>
+          ⚠️ Important
           
-          <img src="./images/grammalecte.png" width="65%" style="margin-top: -1em;" />
+          <img src="./images/grammalecte.png" width="70%" />
 				</script> </section>
         <section data-markdown="">
           <script type="text/template">
